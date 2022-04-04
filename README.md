@@ -1,1 +1,1 @@
-# tugas-project-pertama
+oleh karena file hasil compile yaitu file dengan ekstensi .class jumlahnya lebih dari 5 (jumlah maksimum upload file di spada), maka saya kumpulkan menggunakan link github. sebelumnya terima kasih dan mohon maaf.
